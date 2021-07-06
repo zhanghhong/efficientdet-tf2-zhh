@@ -124,7 +124,7 @@ if __name__ == "__main__":
     #   classes的路径，非常重要
     #   训练前一定要修改classes_path，使其对应自己的数据集
     #----------------------------------------------------#
-    classes_path = 'model_data/voc_classes.txt' 
+    classes_path = '/mnt/disk/zhh/efficientdet-tf2-zhh/model_data/voc_classes.txt' 
     #------------------------------------------------------#
     #   一共有多少类和多少先验框
     #------------------------------------------------------#
